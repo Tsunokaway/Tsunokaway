@@ -4,7 +4,7 @@ Sobre mim!
 
 🚨 - Meus interesses em Data Science cresceram desde o começo de 2024, venho estudando sobre a importância de utilizar a linguagem Python na manipulação de grandes estruturas de dados.
 
-💭 - Linguagens de interesse: Python e Javascript.
+💭 - Linguagens de interesse: Python
 
 🔍 - Gosto de aprender sobre novas coisas, aceito críticas e feedbacks para aprimorar minhas habilidades, tenho uma boa comunicacão em equipe e possuo um nível de fluência agradável na língua inglesa.
 
