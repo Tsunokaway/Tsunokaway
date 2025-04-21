@@ -2,11 +2,23 @@ Sobre mim!
 
 👩🏻 - Meu nome é Yasmin, uma garota de 17 anos, cabelo curto e preto, uso óculos e tenho pele clara.
 
-🚨 - Meus interesses em Data Science cresceram desde o começo de 2024, venho estudando sobre a importância de utilizar a linguagem Python na manipulação de estruturas de dados.
+🚨 - Meus interesses em Data Science cresceram desde o começo de 2024, venho estudando sobre a importância de utilizar a linguagem Python e suas demais bibliotecas na manipulação de estruturas e visualização de dados. Além disso, possuo conhecimento sobre a utilização de Python para a predição de eventos e testes de hipóteses.
 
-💭 - Linguagens de interesse: Python
+💭 - Conhecimento sólido: 
+  Python 
+  SQL
+  Javascript
+  Typescript
+  MongoDB
+  Nodejs
+  CSS
+  HTML
+  Bootstrap
+  Figma
+  AdobePhotoshop
+  AdobeIlustrator.
 
-🔍 - Gosto de aprender sobre novas coisas, aceito críticas e feedbacks para aprimorar minhas habilidades, tenho uma boa comunicacão em equipe e possuo um nível de fluência agradável na língua inglesa.
+🔍 - Busco aprender sobre novos assuntos, aceito críticas e feedbacks para aprimorar minhas habilidades, me comunico bem em equipe e tenho um nível de fluência intermediário na língua inglesa.
 
 
 <!---
