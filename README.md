@@ -1,10 +1,8 @@
-# Sobre mim!
+## 👩🏻‍💻 Sobre mim!
 
 Meu nome é Yasmin, uma garota de 17 anos, cabelo curto e preto, uso óculos e tenho pele clara.
 
-## 💭 
-
-Conhecimento sólido: 
+## 💭 Conhecimento sólido: 
   
   Python 
   
