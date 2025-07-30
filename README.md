@@ -30,7 +30,9 @@ Conhecimento sólido:
   
   AdobeIlustrator.
 
-## 🔍 - Busco aprender sobre novos assuntos, aceito críticas e feedbacks para aprimorar minhas habilidades, me comunico bem em equipe e tenho um nível de fluência intermediário na língua inglesa.
+## 🔍 
+
+Busco aprender sobre novos assuntos, aceito críticas e feedbacks para aprimorar minhas habilidades, me comunico bem em equipe e tenho um nível de fluência intermediário na língua inglesa.
 
 
 <!---
