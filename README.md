@@ -1,10 +1,12 @@
 # Sobre mim!
 
-## 👩🏻 - Meu nome é Yasmin, uma garota de 17 anos, cabelo curto e preto, uso óculos e tenho pele clara.
+## 👩🏻 
 
-## 🚨 - Meus interesses em Data Science cresceram desde o começo de 2024, venho estudando sobre a importância de utilizar a linguagem Python e suas demais bibliotecas na manipulação de estruturas e visualização de dados. Além disso, possuo conhecimento sobre a utilização de Python para a predição de eventos e testes de hipóteses.
+Meu nome é Yasmin, uma garota de 17 anos, cabelo curto e preto, uso óculos e tenho pele clara.
 
-## 💭 - Conhecimento sólido: 
+## 💭 
+
+Conhecimento sólido: 
   
   Python 
   
