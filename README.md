@@ -1,3 +1,7 @@
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/tsunokaway/github-readme-stats)
+
+
+
 ## 👩🏻‍💻 Sobre mim!
 
 Meu nome é Yasmin, uma garota de 17 anos, cabelo curto e preto, uso óculos e tenho pele clara.
