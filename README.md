@@ -1,4 +1,4 @@
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/tsunokaway/github-readme-stats)
+[![Tsunokaway](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/tsunokaway/github-readme-stats)
 
 
 
