@@ -8,7 +8,7 @@ Meu nome é Yasmin, uma garota de 17 anos, cabelo curto e preto, uso óculos e t
 
 ## 💭 Conhecimento sólido: 
   
-  [![Python][Python.py]][(https://e7.pngegg.com/pngimages/33/377/png-clipart-python-programming-language-computer-programming-object-oriented-programming-others-miscellaneous-text-thumbnail.png)]
+  [![Next][Next.js]][Next-url]
   
   SQL
   
