@@ -2,9 +2,10 @@
 
 
 
-## 👩🏻‍💻 Sobre mim!
+## 👩🏻‍💻 Hello World!
 
-Meu nome é Yasmin, uma garota de 18 anos, cabelo curto e preto, uso óculos e tenho pele clara.
+Meu nome é Yasmin, intrigada por esse mundo, o aprendizado contínuo e a curiosidade, fazem com que as linhas de código juntamente com o pensamento analítico, transformam realidades, trazendo soluções inteligentes.
+
 
 ## 💭 Conhecimento sólido: 
   
@@ -13,7 +14,6 @@ Meu nome é Yasmin, uma garota de 18 anos, cabelo curto e preto, uso óculos e t
 
 ## 🔍 
 Atualmente, apaixonada no universo dos dados. Possuo conhecimento pelas tecnologias como Python e SQL, e bancos relacionais (Oracle, MySQL, SQL Server) e não-relacionais (MongoDB). Comunicando-os através de narrativas visuais, como o PowerBI e Excel.
-Intrigada por esse mundo, o aprendizado contínuo e a curiosidade, fazem com que as linhas de código juntamente com o pensamento analítico, transformam realidades, trazendo soluções inteligentes.
 
 "Apaixone-se pelo problema, não pela solução" - Uri Levine.
 
