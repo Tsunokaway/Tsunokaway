@@ -4,11 +4,11 @@
 
 ## 👩🏻‍💻 Sobre mim!
 
-Meu nome é Yasmin, uma garota de 17 anos, cabelo curto e preto, uso óculos e tenho pele clara.
+Meu nome é Yasmin, uma garota de 18 anos, cabelo curto e preto, uso óculos e tenho pele clara.
 
 ## 💭 Conhecimento sólido: 
   
-  [![Next][Next.js]][Next-url]
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   
   SQL
   
