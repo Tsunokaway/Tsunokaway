@@ -16,7 +16,7 @@
 ## 🔍 
 Atualmente, apaixonada no universo dos dados. Possuo conhecimento pelas tecnologias como Python e SQL, e bancos relacionais (Oracle, MySQL, SQL Server) e não-relacionais (MongoDB). Comunicando-os através de narrativas visuais, como o PowerBI e Excel. 
 
-"Apaixone-se pelo problema, não pela solução" - Uri Levine.
+| "Apaixone-se pelo problema, não pela solução" - Uri Levine.
 
 
 ## 📊 Estatísticas
