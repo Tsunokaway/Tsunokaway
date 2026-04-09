@@ -7,6 +7,7 @@
 
 ---
 <h1 align="start">Hello World! </h1>
+
  🎓 Studying technology and data   
 
   📊 Interested in Data Science & Analytics   
