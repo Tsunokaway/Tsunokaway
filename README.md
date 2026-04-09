@@ -18,6 +18,7 @@ Atualmente, apaixonada no universo dos dados. Possuo conhecimento pelas tecnolog
 "Apaixone-se pelo problema, não pela solução" - Uri Levine.
 
 #
+## 📊 Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsunokaway&layout=compact)
 
