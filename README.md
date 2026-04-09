@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasmin, </h1>
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
@@ -6,9 +6,7 @@
 </div>
 
 ---
-
-## 🚀 About Me
-
+<h1 align="start">Hello World! </h1>
 - 🎓 Studying technology and data
 - 📊 Interested in Data Science & Analytics
 - 💡 Learning Python, SQL and statistics
@@ -24,26 +22,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Tsunokaway&show_icons=true&theme=tokyonight"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsunokaway&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsunokaway&theme=tokyonight"/>
-
-</p>
 
 
 ## 📫 Connect with me
@@ -64,12 +42,14 @@
 
  *| "Apaixone-se pelo problema, não pela solução" - Uri Levine.*
 
-
-## 📊 Estatísticas
+---
+<p align="center">
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tsunokaway&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tsunokaway&layout=compact)
+
+</p>
 <!---
 Tsunokaway/Tsunokaway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
