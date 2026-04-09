@@ -8,8 +8,11 @@
 ---
 <h1 align="start">Hello World! </h1>
  🎓 Studying technology and data   
+
   📊 Interested in Data Science & Analytics   
+  
   💡 Skills: Python, SQL and statistics  
+  
   🌱 Always improving my coding skills   
 
 ---
