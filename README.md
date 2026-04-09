@@ -1,4 +1,85 @@
+<h1 align="center">Hi 👋, I'm Yasmin</h1>
+<h3 align="center">📊 Future Data Scientist | Technology Student</h3>
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Studying technology and data
+- 📊 Interested in Data Science & Analytics
+- 💡 Learning Python, SQL and statistics
+- 🌱 Always improving my coding skills
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Tsunokaway&show_icons=true&theme=tokyonight"/>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsunokaway&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsunokaway&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+
+<a href="www.linkedin.com/in/yasmin-yumi-tsunokawa-359569303">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:tsunokaway@email.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ *Always learning and building new projects*
 
 
 
