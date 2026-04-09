@@ -7,10 +7,7 @@
 
 ---
 <h1 align="start">Hello World! </h1>
-- 🎓 Studying technology and data
-- 📊 Interested in Data Science & Analytics
-- 💡 Learning Python, SQL and statistics
-- 🌱 Always improving my coding skills
+ 🎓 Studying technology and data |  📊 Interested in Data Science & Analytics  | 💡 Learning Python, SQL and statistics  |  🌱 Always improving my coding skills
 
 ---
 
