@@ -4,7 +4,7 @@
 
 ## 👩🏻‍💻 Hello World!
 
-Meu nome é Yasmin, intrigada por esse mundo, o aprendizado contínuo e a curiosidade, fazem com que as linhas de código juntamente com o pensamento analítico, transformam realidades, trazendo soluções inteligentes.
+Meu nome é Yasmin, intrigada por esse mundo tecnológico, o aprendizado contínuo e a curiosidade, fazem com que as linhas de código juntamente com o pensamento analítico, transformam realidades, trazendo soluções inteligentes.
 
 
 ## 💭 Conhecimento sólido: 
