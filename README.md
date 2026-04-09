@@ -5,8 +5,8 @@
 ## Hello World!
 
 🎓 Estudante de Tecnologia  
-📊 Ciência de Dados
-💡 Interessada em Machine Learning, Estatística e Análise de Dados
+📊 Ciência de Dados   
+ 💡 Interessada em Machine Learning, Estatística e Análise de Dados
 
 ## 💭 Conhecimento sólido: 
   
