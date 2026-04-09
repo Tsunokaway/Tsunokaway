@@ -17,12 +17,12 @@ Atualmente, apaixonada no universo dos dados. Possuo conhecimento pelas tecnolog
 
 "Apaixone-se pelo problema, não pela solução" - Uri Levine.
 
-#
+
 ## 📊 Estatísticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsunokaway&layout=compact&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsunokaway&show_icons=true&theme=default)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tsunokaway&show_icons=true&theme=tokyonight"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsunokaway&layout=compact)
 <!---
 Tsunokaway/Tsunokaway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
